@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Atari-TT030")(type "KiCad")(uri "${KIPRJMOD}/Atari TT030.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+DIAGNOSIS_DATA_START
+### SECT_START My Section
+### NOTE_START My First note in My Section
+###		some data [n:PPBUS_G3H]
+### NOTE_END
+### SECT_END
+								DIAGNOSIS_DATA_END
+### END
